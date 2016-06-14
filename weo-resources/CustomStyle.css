@@ -1,13 +1,13 @@
 ﻿
 /*=====================================================================
- * File                    : CustomStyles.css 
+ * File                    : CustomStyles.css
  * Created Date            : 11-Nov-2009
  * Last Updated By         : 09-Dec-2009
  * Last Updated Date       : Sri Harsha Kalagara
  * Description             : CustomStyles
  * Type					   : Stylesheet
  * -------------------------------------------------------------------*/
- 
+
 body{font-size:12px !important;font-family:Arial,Helvetica,sans-serif !important;color:#444 !important}
 form{height:100%}
 html{height:100%}
@@ -188,9 +188,9 @@ div.ms-quicklaunchouter {
 .questionorange_ctrl1_ico{background-position:-156px 0; width:14px;}
 .questiongrey_ctrl1_ico{background-position:-172px -1px; width:14px;}
 
-.mgn_t-1{ 
-	margin-top:-1px; 
-	*margin-top:-2px; 
+.mgn_t-1{
+	margin-top:-1px;
+	*margin-top:-2px;
 }
 .mgn_t2 {margin-top:-2px;}
 
@@ -554,7 +554,7 @@ a.bottomstyle:hover{
 
 .latest_teaser_headline{
     text-align: left;
-    margin-bottom: 5px; 
+    margin-bottom: 5px;
 }
 
 .latest_teaser{
@@ -927,7 +927,7 @@ div.fWindow{
 }
 .tdFillColor {
     border: 7px solid #F57F3F;
-    padding: 0px !important;   
+    padding: 0px !important;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
 }
@@ -1281,7 +1281,7 @@ TH{
 	color:#2b4598 !important;
 	font-family:Arial,Helvetica,sans-serif !important;
 	font-size: 21px !important;
-}           
+}
 .GHP8_H_Main_caps_Tab2{
 	color:#2a3135 !important;
 	font-family:Arial,Helvetica,sans-serif !important;
@@ -1291,7 +1291,7 @@ TH{
 	color:#3A9296 !important;
 	font-family:Arial,Helvetica,sans-serif !important;
 	font-size: 21px !important;
-}            
+}
 .GHP8_H_Main_caps_Tab4{
 	color:#D73235 !important;
 	font-family:Arial,Helvetica,sans-serif !important;
@@ -1310,7 +1310,7 @@ TH{
 	background: url(../images/round.png) no-repeat;
 	*background: url(../images/round1.gif) no-repeat;
 }
- 
+
 .ContentStyles{
     height: 332px;
     width: 580px;
@@ -1396,7 +1396,7 @@ GHP8_H_Main_caps:link
 
 @media screen and (-webkit-min-device-pixel-ratio:0){
 .flashctrl {padding-left:0;width:973px;}
-} 
+}
 
 /*        END OF EIG WELCOME CONTROL --------- */
 
@@ -1452,7 +1452,7 @@ GHP8_H_Main_caps:link
 
 .btn
 {
-	border-width:0px;	
+	border-width:0px;
 }
 .btn_CrudeOil_Compare{
     height: 23px;
@@ -1669,7 +1669,7 @@ GHP8_H_Main_caps:link
 
 .HoverItem{
 	border: 3px dotted #FF6600;
-} 
+}
 .SelectMenu{
 	font-family:Arial,Helvetica, sans-serif;
 	font-size:11px;
@@ -1681,7 +1681,7 @@ GHP8_H_Main_caps:link
 
 .txtBoxesCss{
 	font-family:Arial,Helvetica, sans-serif;
-	border:1px solid #bcbbbc; 
+	border:1px solid #bcbbbc;
 	width:99px;
 	font-weight:bold;
 	height:20px;
@@ -1691,7 +1691,7 @@ GHP8_H_Main_caps:link
 
 .txtBoxesGreenCss{
 	font-family:Arial,Helvetica, sans-serif;
-	border:1px solid #bcbbbc; 
+	border:1px solid #bcbbbc;
 	width:99px;
 	font-weight:bold;
 	height:20px;
@@ -1717,7 +1717,7 @@ GHP8_H_Main_caps:link
 */
 
 .div_WB_Bottom{padding-bottom: 20px;}
-.ddChild_WorkBench{width:120px !important;}		
+.ddChild_WorkBench{width:120px !important;}
 .Hide_workBench{display: none;}
 .jqifade{position: absolute;background-color: #aaaaaa;}
 div.jqi{
@@ -1791,10 +1791,10 @@ div.jqi button.jqidefaultbutton{
 .jqicloseWhite{
       cursor: pointer;
       background-position:-94px 0;
-      height:14px; 
-      width:14px; 
-      margin-right:2px; 
-      margin-top:0px; 
+      height:14px;
+      width:14px;
+      margin-right:2px;
+      margin-top:0px;
       position:relative;
       float:right;
 }
@@ -2186,7 +2186,7 @@ div.extblue button{
 .divReleaseDate{
     color: #444;
     font-size: 10px;
-    font-family: Arial,Helvetica, sans-serif;    
+    font-family: Arial,Helvetica, sans-serif;
     vertical-align: top;
     text-transform: uppercase;
     font-weight: bold;
@@ -2227,7 +2227,7 @@ div.extblue button{
     color: #444;
     font-size: 10px;
     font-family: Arial,Helvetica, sans-serif;
-    vertical-align: top;   
+    vertical-align: top;
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -2378,7 +2378,7 @@ div.extblue button{
 .delete_wb_but{background-position:-433px -3px; width:57px;}
 /* NORMAL STATE END */
 
- 
+
 
 /* HOVER STATE START */
 
@@ -2744,7 +2744,7 @@ div.extblue button{
     color: #F47937 ;
     text-transform: uppercase;
     font-weight: bold !important;
-    cursor: pointer;  
+    cursor: pointer;
     height: 24px;
     background-color: #ababab;
     padding:5px 0 0 10px;
@@ -2788,7 +2788,7 @@ div.extblue button{
 .mapheader_video{
     font-weight: bold;
     font-size: 15px;
-    cursor: move; 
+    cursor: move;
     text-transform:uppercase;
 }
 
@@ -2966,17 +2966,17 @@ div.extblue button{
 .sprite_wgi{background: transparent url(../../EIG/Images/NewsLetters/wgi_icon_sprite.gif) no-repeat scroll right top;}
 
 /*-----[Non Newsletter]------------*/
-.sprite_nonnewsletter{background: transparent url(../../EIG/Images/NewsLetters/nonnewsletter-icons.gif) no-repeat scroll right top;} 
+.sprite_nonnewsletter{background: transparent url(../../EIG/Images/NewsLetters/nonnewsletter-icons.gif) no-repeat scroll right top;}
 
 .sprite_res{background: transparent url(../../EIG/Images/NewsLetters/res_icon_sprite.jpg) no-repeat scroll right top;cursor:pointer}
 .sprite_DS{background: transparent url(../../EIG/Images/NewsLetters/ds_icon_sprite.jpg) no-repeat scroll right top;}
-.EISelect_Logo{    
-      background:transparent url('../../EIG/Images/EI-SELECT-LOGO.gif') no-repeat scroll 0 0;  
+.EISelect_Logo{
+      background:transparent url('../../EIG/Images/EI-SELECT-LOGO.gif') no-repeat scroll 0 0;
       width: 215px;
-      height: 38px;  
-      border: none; 
+      height: 38px;
+      border: none;
 }
- 
+
 .sprite_EISelect{background: transparent url(../../EIG/Images/EISelect/ei-select-icon.jpg) no-repeat scroll right top;}
 
 .print, .print_clk, .print_ovr {height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top;}
@@ -2990,9 +2990,9 @@ div.extblue button{
 .HTML, .HTML_clk, .HTML_ovr {height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top;}
 .view_pub, .view_pub_clk, .view_pub_ovr {height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top;}
 .dataSource, .dataSource_clk, .dataSource_ovr {height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top;}
-.addFavoritArticles, .addFavoritArticles_clk, .addFavoritArticles_ovr 
+.addFavoritArticles, .addFavoritArticles_clk, .addFavoritArticles_ovr
 { height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top; }
-.removeFavoritArticles, .removeFavoritArticles_clk, .removeFavoritArticles_ovr 
+.removeFavoritArticles, .removeFavoritArticles_clk, .removeFavoritArticles_ovr
 { height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top; }
 .tool, .tool_clk, .tool_ovr {height:27px;width: 27px; background: transparent url(../../EIG/Images/NewsLetters/toolbar-icons.png) no-repeat scroll right top;}
 .nextArticle, .nextArticle_clk, .nextArticle_ovr {height:24px;width: 72px; background: transparent url(../../EIG/Images/next_article.png) no-repeat scroll right top;}
@@ -3081,7 +3081,7 @@ div.extblue button{
 .toolBar input
 {
 	float:left;
-	border-width:0px;	
+	border-width:0px;
 }
 
 .toolTip{background-color:#444;display:none;font:normal 10px Arial,Helvetica,sans-serif;position:absolute;}
@@ -3162,11 +3162,11 @@ div.extblue button{
 hr{color: #999999;height: 1px;}
 
 .tdheightcreateuser{
-    height: 750px; 
+    height: 750px;
 }
 
 .tblForgotPwdHt{
-height: 754px; 	
+height: 754px;
 vertical-align:top;
 }
 /*-- DirectMail --*/
@@ -3359,7 +3359,7 @@ a.btnGreyDrop span{
 .RightStream{padding-left: 17px}
 .StreamBanner{
 	background: transparent url('../../EIG/Images/InfoStreamTabs/omv-marketing-banner.png') no-repeat scroll right top;
-	width:640px; 
+	width:640px;
 	height:120px;
 }
 /* Accordian Iframe Claases - END */
@@ -3405,7 +3405,7 @@ a.btnGreyDrop span{
 .sprite_smt {background-position:1px -203px;height:30px;width:101px;}
 .sprite_cel {background-position:1px -232px;height:30px;width:101px;}
 
- 
+
 /*----End of Subscription----*/
 
 /*------[Floater Bar Sprite]------*/
@@ -3642,7 +3642,7 @@ span.hidden {
     /*overflow: hidden;*/
     overflow-y: hidden;
     overflow-x: hidden;
-    height: 20px;    
+    height: 20px;
     cursor: pointer;
     white-space: nowrap;
     *text-overflow: ellipsis;
@@ -4191,7 +4191,7 @@ img.datepick-trigger{
 
 div.pass_sep input
 {
-	/*margin-right:5px;*/	
+	/*margin-right:5px;*/
 	margin-top:-2px;
 	float:right;
 	/*margin-bottom:-2px;*/
@@ -4310,72 +4310,72 @@ div.pass_sep input
 
 .info_markets_unsel{
 color:#76EE84;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_upstream_unsel{
 color:#FBE165;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_downsream_unsel{
 color:#FFFFFF;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_lng_unsel{
 color:#DAFFFF;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_GreenEnergy_unsel{
 color:#AFFFBD;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_finance_unsel{
 color:#76D0FF;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_Politics_unsel{
 color:#FF7F94;
-font-size:12px; 
+font-size:12px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_markets_tit{
 color:#1B9329;
-font-size:18px; 
+font-size:18px;
 font-family: Arial, Helvetica,sans-serif;
 }
 .info_upstream_tit{
 color:#A086A;
-font-size:18px; 
+font-size:18px;
 font-family: Arial, Helvetica,sans-serif;
 }
 
 .info_downsream_tit{
 color:#B5B5B5;
-font-size:18px; 
+font-size:18px;
 font-family: Arial, Helvetica,sans-serif;
 }
 
 .info_lng_tit{
 color:#7FBCE2;
-font-size:18px; 
+font-size:18px;
 font-family: Arial, Helvetica,sans-serif;
 }
 
 .info_finance_tit{
 color:#1B75BB;
-font-size:18px; 
+font-size:18px;
 font-family: Arial, Helvetica,sans-serif;
 }
 
 
 .info_markets, .info_finance, .info_upstream, .info_politics_tit, .info_lng, .info_downsream {
 color:#F47937;
-font-size:16px; 
+font-size:16px;
 font-family: Arial, Helvetica,sans-serif;
 text-transform: uppercase;
 padding:10px 0;
@@ -4384,8 +4384,8 @@ padding:10px 0;
 
 .info_energy_title{
 color:#54cc62;
-font-size:32px; 
-font-weight:bold; 
+font-size:32px;
+font-weight:bold;
 font-family: Arial, Helvetica,sans-serif;
 }
 
@@ -4476,9 +4476,9 @@ button.rounded span{
 
 .EISelect_ShowScroll{
 	overflow-x: hidden;
-	overflow: auto;    
-	overflow-y:scroll;   
-	height: 200px;   
+	overflow: auto;
+	overflow-y:scroll;
+	height: 200px;
 	width:100%;
 	scrollbar-face-color: #565656;
 	scrollbar-base-color: #373d40;
@@ -4510,7 +4510,7 @@ button.rounded span{
 .currency_text{
 	font-family:Arial,helvetica, sans-serif;
 	font-size:12px;
-	height:300px; 
+	height:300px;
 	overflow:auto;
 	width:240px;
 }
@@ -4536,7 +4536,7 @@ button.rounded span{
       margin:0 5px 0 5px;
       text-decoration:none;
       text-align:right;
-} 
+}
 .txt_col_ovr{
       font-family:Arial, Helvetica,sans-serif;
       font-size:12px;
@@ -4554,7 +4554,7 @@ button.rounded span{
 	margin:0 5px 0 5px;
 	text-decoration:none;
 	text-align:right;
-} 
+}
 
 .txt_col_ovr1{
 	font-family:Arial, Helvetica,sans-serif;
@@ -4573,7 +4573,7 @@ button.rounded span{
 	color: #444444 !important;
 	font-weight: bold;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;      
+	font-size: 14px;
 }
 
 
@@ -4650,29 +4650,29 @@ button.rounded span{
 	width:300px;
 	background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;
 }
-	
+
 .Thumbnail_EditorialComment{
 	height:190px;
 	width:370px;
-	background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;    
+	background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;
 }
 
 .Thumbnail_TrendingBar{
 	height:56px;
 	width:85px;
-	/*background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;*/    
+	/*background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;*/
 }
 
 .Thumbnail_TrendingPage{
 	height:148px;
 	width:228px;
-	/*background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;*/    
+	/*background: url('/_layouts/eig/images/loading.gif') no-repeat scroll 50% 50% transparent;*/
     margin-left: 10px;
     margin-bottom: 10px;
 }
 
-.EISelect_title{    
-	  vertical-align:middle; 
+.EISelect_title{
+	  vertical-align:middle;
       font-family: Arial,Helvetica, sans-serif !important;
       font-size: 12px !important;
       font-weight:bold;
@@ -4680,26 +4680,26 @@ button.rounded span{
       padding-left: 3px !important;
       cursor: pointer !important;
       height: 32px !important;
-      background-color: #969696 !important;             
+      background-color: #969696 !important;
 }
 
 .EISelect_title_open{
-    color:#FFFFFF;    
+    color:#FFFFFF;
 }
 .EISelect_title_closed{
-	color:#000000;   
+	color:#000000;
 }
-.EISelect_titleImg_open{    
-	background: transparent url('../../EIG/Images/ei_logo_white.gif') no-repeat scroll 0 0;    
-	width: 17px;   
-	border: none;                 
+.EISelect_titleImg_open{
+	background: transparent url('../../EIG/Images/ei_logo_white.gif') no-repeat scroll 0 0;
+	width: 17px;
+	border: none;
 	height: 17px;
 }
-.EISelect_titleImg_closed{    
-	background:transparent url('../../EIG/Images/ei_logo_grey.gif') no-repeat scroll 0 0;  
+.EISelect_titleImg_closed{
+	background:transparent url('../../EIG/Images/ei_logo_grey.gif') no-repeat scroll 0 0;
 	width: 17px;
-	height: 17px;  
-	border: none; 
+	height: 17px;
+	border: none;
 }
 .EISelect_handle:hover{color:#F47937 !important}
 .EISelect_handle{cursor:pointer !important;}
@@ -4708,7 +4708,7 @@ button.rounded span{
    width: 20px !important;
 }
 
-/* Group Home Page */ 
+/* Group Home Page */
 .Grp_btm_lft_panel{
 	padding:10px 10px 0 0px;
 	*padding-top:10px;
@@ -4718,20 +4718,20 @@ button.rounded span{
 }
 
 .Grp_btm_rht_panel{
-	padding-top:10px; 
+	padding-top:10px;
 	table-layout: fixed;
 	vertical-align:top;
-	width: 640px; 
+	width: 640px;
 }
 
 .Grp_Btm_Table{
    width:960px;
-   table-layout: fixed; 
+   table-layout: fixed;
    /*margin-left:-6px;*/
    /*padding-bottom:10px;*/
 }
 
-/* Group Home Page */ 
+/* Group Home Page */
 
 
 .newsletter_headline{
@@ -4775,12 +4775,12 @@ a.PubMethodly, .PubMethodly:hover{
 	font-weight:bold;
 }
 .grp_hp_left_ctnr_innerDIV{
-	min-height: 212px; 
+	min-height: 212px;
 	padding:9px 11px;
 }
 .grp_hp_right_ctnr_innerDIV{
 	min-height: 220px;
-	*min-height:230px;   
+	*min-height:230px;
 }
 
 #divUC_EIinteractive_Webnier_Main{
@@ -4803,7 +4803,7 @@ a.PubMethodly, .PubMethodly:hover{
 	margin:0 0 10px 0;
 	/* *margin:14px 0 17px 2px;*/
 }
-/*@media screen and (-webkit-min-device-pixel-ratio:0) 
+/*@media screen and (-webkit-min-device-pixel-ratio:0)
 {
 	.fullPortletContainer{
 	width:971px;
@@ -4817,7 +4817,7 @@ a.PubMethodly, .PubMethodly:hover{
 	width:971px;
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) 
+@media screen and (-webkit-min-device-pixel-ratio:0)
 {
 	.billingContainer{
 	margin:17px 0 17px 2px;
@@ -4829,11 +4829,11 @@ a.PubMethodly, .PubMethodly:hover{
 	*margin:3px 0 17px 2px;
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) 
+@media screen and (-webkit-min-device-pixel-ratio:0)
 {
 .OrderTbl{
 		margin:17px 0 20px 2px;
-	
+
 }
 }
 .OrderTblLeft{
@@ -4854,14 +4854,14 @@ a.PubMethodly, .PubMethodly:hover{
 }
 
 .RegistrationTbl, .EASubscriberTbl{
-	margin:-3px 0 11px;	
+	margin:-3px 0 11px;
 	*margin:-2px 0 11px;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	.RegistrationTbl, .EASubscriberTbl
-	{	
-		margin:-2px 0 11px 0;	
+	{
+		margin:-2px 0 11px 0;
 	}
 }
 
@@ -4870,7 +4870,7 @@ a.PubMethodly, .PubMethodly:hover{
 	vertical-align:top;
 	width:640px;
 }
-.RegistrationTblRight 
+.RegistrationTblRight
 {
 	vertical-align:top;
 	width:310px;
@@ -4890,13 +4890,13 @@ a.PubMethodly, .PubMethodly:hover{
 	padding:6px 13px 0 1px;
 	*padding:6px 9px 0 2px;
 }
-@media screen and (-webkit-min-device-pixel-ratio:0) 
+@media screen and (-webkit-min-device-pixel-ratio:0)
 {
 .RegConfLeft{
 	vertical-align:top;
 	width:640px;
 	padding:6px 9px 0 2px;
-}	
+}
 }
 .RegConfRight{
 	width:310px;
@@ -4949,12 +4949,12 @@ a.PubMethodly, .PubMethodly:hover{
     margin: 0px;
     padding: 0px;
     text-align: center;
-    
+
 	text-transform: uppercase;
     font-size: 12px;
 }
 
-#pager ul.pages li ,#otherPager ul.pages li 
+#pager ul.pages li ,#otherPager ul.pages li
 {
     display: inline;
     list-style-type: none;
@@ -4963,17 +4963,17 @@ a.PubMethodly, .PubMethodly:hover{
 	padding: 3px;
 }
 
-#pager ul.pages li:hover ,#otherPager ul.pages li:hover 
+#pager ul.pages li:hover ,#otherPager ul.pages li:hover
 {
     color:#F47937;
 }
 
-#pager ul.pages li.pgEmpty ,#otherPager ul.pages li.pgEmpty 
-{    
+#pager ul.pages li.pgEmpty ,#otherPager ul.pages li.pgEmpty
+{
 	color: #eee;
 }
 
-#pager ul.pages li.pgCurrent ,#otherPager ul.pages li.pgCurrent 
+#pager ul.pages li.pgCurrent ,#otherPager ul.pages li.pgCurrent
 {
     color:#F47937;
 	font-weight: 700;
@@ -4984,7 +4984,7 @@ a.PubMethodly, .PubMethodly:hover{
 
 .pagerLink
 {
- text-decoration:none;   
+ text-decoration:none;
  margin-right:10px;
 }
  a.pagerLink.a_selected { color: #F47937; }
@@ -5014,7 +5014,7 @@ height:1px;
 }
 
 .CartTbl{
-	margin:3px 0 20px 2px;	
+	margin:3px 0 20px 2px;
 	width:971px;
 }
 
@@ -5027,7 +5027,7 @@ height:1px;
 
 /*.myAccountCtnr{
 	margin-bottom:20px;
-	
+
 }*/
 .tbl_RM, .tbl_DS{table-layout: fixed}
 .tbl_RM_new{table-layout: fixed;width:973px;}
@@ -5064,12 +5064,12 @@ height:1px;
 .FilterSearch_background{
 	background-color: #000 !important;
 }
- 
+
 .sprite_kc_next{
 	background:url("../../EIG/Images/KC_Arrows.png") no-repeat scroll -30px 0 transparent;
 	height:21px;
 	width:30px;
-} 
+}
 
 .FilterSearch_Calendar_textBox{
   background: #242424;/* #293134;*/
@@ -5102,7 +5102,7 @@ height:1px;
 	scrollbar-highlight-color: none;
 	scrollbar-3dlight-color: none;
 	scrollbar-darkshadow-color: none;
-} 
+}
 
 .FilterSearch_CriteriaScroll{
 	overflow: auto;
@@ -5117,7 +5117,7 @@ height:1px;
 	scrollbar-highlight-color: none;
 	scrollbar-3dlight-color: none;
 	scrollbar-darkshadow-color: none;
-} 
+}
 
 .FilterSearch_GrayBG{background: #000;}
 
@@ -5132,7 +5132,7 @@ height:1px;
 .FilterSearch_leftTile{background: url('../../EIG/Images/left-tile.gif') 100% 0 repeat-y;}
 .FilterSearch_rightTile{background: url('../../EIG/Images/right-tile.gif') 100% 0 repeat-y;}
 
-.EISelect_accordion_height_S1{height: 450px !important;} 
+.EISelect_accordion_height_S1{height: 450px !important;}
 .EISelect_accordion_height_S2{height: 650px !important;}
 
 .cFF7F35SM {color: #F47937 !important; text-decoration: none;}
@@ -5179,9 +5179,9 @@ a.sitemap_col:hover {color: #F47937 !important; text-decoration: none;}
 	width: 296px;
 	text-align: justify;
 	vertical-align: top;
-	cursor: pointer;            
+	cursor: pointer;
 }
-     
+
 .td_EIG_Reader_HeaderZeroWidth{
 	color: #F47937;
 	font-family: Arial,Helvetica, sans-serif;
@@ -5194,7 +5194,7 @@ a.sitemap_col:hover {color: #F47937 !important; text-decoration: none;}
 	width: -1px;
 }
 .H3_lite_groupSM{
-	color:#feb68c; 
+	color:#feb68c;
 }
 .td_EIG_Reader_ArticlesSM{
 	cursor: pointer;
@@ -5226,7 +5226,7 @@ a.sitemap_col:hover {color: #F47937 !important; text-decoration: none;}
 	font-family: Arial,Helvetica,sans-serif;
 	font-size: 12px;
 }
- 
+
 .Adv_span{
 	color: #979694 !important;
 	width: 200px !important;
@@ -5324,7 +5324,7 @@ font-family:Arial,helvetica, sans-serif;
 /*margin:0 auto;*/
 }
 
-#footer a{text-decoration:none}
+#footer a{text-decoration:none; color: #fff;}
 
 #microsites{
 width:960px;
@@ -5371,12 +5371,12 @@ div#topnav {
 }
 
 #topnav a{
-	color:#F47937; 
+	color:#F47937;
 	text-decoration:none;
 }
 
 #topnav a:hover {
-	color:#F47937; 
+	color:#F47937;
 }
 
 #nav-container a {
@@ -5495,7 +5495,7 @@ margin-bottom:-4px;
 /*margin-bottom:-4px;*/
 }
 
-#div-registration{  
+#div-registration{
 margin-bottom:-2px;
 *margin-bottom:-1px;
 }
@@ -5529,20 +5529,20 @@ margin-bottom:-2px;
 }
 
 .tip{
-	font:10px/12px Arial,Helvetica,sans-serif; 
-	border:solid 1px #666666; 
+	font:10px/12px Arial,Helvetica,sans-serif;
+	border:solid 1px #666666;
 	padding:1px;
-	position:absolute; 
+	position:absolute;
 	z-index:50000;
-	visibility:hidden; 
-	color:#333333; 
+	visibility:hidden;
+	color:#333333;
 	top:20px;
-	left:90px; 
+	left:90px;
 	background-color:#ffffcc;
 	layer-background-color:#ffffcc;
 }
-                
-                
+
+
 .tbl_RM_LAYOUTB{
 	padding:0;
 }
@@ -5567,7 +5567,7 @@ margin-bottom:-2px;
 .sprite-lng{background-position:0 -85px;}
 .sprite-downstream {background-position:-160px -85px;}
 
-a.ghp_arrow1{   
+a.ghp_arrow1{
 	background:url('../../EIG/Images/ghp_arrow.png') no-repeat 1px 9px;
 	width:260px;
 	float:right;
@@ -5577,7 +5577,7 @@ a.ghp_arrow1{
 	margin-top:10px;
 }
 
-a.ghp_arrow3{   
+a.ghp_arrow3{
 	background:url('../../EIG/Images/ghp_arrow3.png') no-repeat 1px 9px;
 	width:330px;
 	float:right;
@@ -5586,7 +5586,7 @@ a.ghp_arrow3{
 	text-decoration:none;
 }
 
-a.ghp_arrow4{   
+a.ghp_arrow4{
 	background:url('../../EIG/Images/ghp_arrow4.png') no-repeat 1px 9px;
 	width:310px;
 	float:right;
@@ -5717,9 +5717,9 @@ float:left;
     }
 .tagCloud a:hover
 {
-    color:White; 
-       
-    background-color:Black;  
+    color:White;
+
+    background-color:Black;
 }
 
 .login_image{
@@ -6487,10 +6487,10 @@ color:#F5271B;
 	border: none;
 }
 
-.EISelect_SubTopic_ShowScroll{    
+.EISelect_SubTopic_ShowScroll{
 	overflow-x: hidden;
-	overflow: auto;        
-	height:220px;     
+	overflow: auto;
+	height:220px;
 	width:100%;
 	scrollbar-face-color: #565656;
 	scrollbar-base-color: #373d40;
@@ -6573,7 +6573,7 @@ color:#F5271B;
 
 /* 404 Page */
 div#centered { margin:50px; }
-        
+
 #centered h1{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:16px;
@@ -6689,18 +6689,18 @@ div#centered { margin:50px; }
 
 .LoginBanner1{
 	background: transparent url('../../EIG/Images/AD/ads/640x80/streams.gif') no-repeat scroll right top;
-	width:640px; 
+	width:640px;
 	height:80px;
 }
 
 .LoginBanner2{
 	background: transparent url('../../EIG/Images/AD/ads/310x80/world-lng-outlook-2010-2011-white.jpg') no-repeat scroll right top;
-	width:310px; 
+	width:310px;
 	height:80px;
 }
 
 .EIGDatasourceFilter{
-	overflow: auto; 
+	overflow: auto;
 	width:650px;
 	color:#FFF!important;
 	padding-bottom: 5px;
@@ -6724,12 +6724,12 @@ div#centered { margin:50px; }
 	left:6px;
 	top:3px;
 	}
-	
+
 .dvTTDS_REFRSH{
 	left:52px;
 	top:3px;
 	}
-	
+
 A.Blog{
     color: #444444;
     text-decoration: none;
@@ -6780,8 +6780,8 @@ removed due to clash in Nav-bar
 	border-top:none;
 	border-left:1px solid #ccc;
 	border-right:1px solid #ccc;
-	border-bottom:none;	
-} 
+	border-bottom:none;
+}
 
 .tdHeight_contact{
 height:484px;
@@ -6859,7 +6859,7 @@ padding:10px 10px;
 width:950px;
 height:320px;
 }
- 
+
 *+html div.bgimage div.bgimagespacing
 {
     padding:10px 0px;
@@ -6979,19 +6979,19 @@ div.bgimageright1{
 .FreeTrial_Right1{
 	background: url(../images/FreeTrial_right1.jpg) no-repeat;
 	width: 310px;
-	height: 784px;	
+	height: 784px;
 }
 
 .FreeTrial_Right2{
 	background: url(../images/FreeTrial-right2.jpg) no-repeat;
 	width: 310px;
-	height: 283px;	
+	height: 283px;
 }
 
 .EI_Subscribe{
 	background: url(../images/EI-Subscribe1.jpg) no-repeat;
 	width: 310px;
-	height: 482px;	
+	height: 482px;
 }
 
 .ad1registration{
@@ -7023,11 +7023,11 @@ height:22px;
 
 .ScrollBarStyle{
 	overflow:scroll;
-	SCROLLBAR-FACE-COLOR:#EBEBEB; 
-	SCROLLBAR-HIGHLIGHT-COLOR:white ; 
-	SCROLLBAR-SHADOW-COLOR: white ; 
-	SCROLLBAR-3DLIGHT-COLOR: white ; 
-	SCROLLBAR-ARROW-COLOR:''; 
+	SCROLLBAR-FACE-COLOR:#EBEBEB;
+	SCROLLBAR-HIGHLIGHT-COLOR:white ;
+	SCROLLBAR-SHADOW-COLOR: white ;
+	SCROLLBAR-3DLIGHT-COLOR: white ;
+	SCROLLBAR-ARROW-COLOR:'';
 	SCROLLBAR-TRACK-COLOR: white ;
 	SCROLLBAR-DARKSHADOW-COLOR:white ;
 }
@@ -7337,7 +7337,7 @@ background: #5E828C url(../../EIG/Images/basebarcaps_verticalbarbody.png) -45px 
         *height:481px;
 }
 
- 
+
 .ei_select{
 	background:url(../../EIG/Images/myselect.jpg) no-repeat;
 	height: 18px;
@@ -7345,7 +7345,7 @@ background: #5E828C url(../../EIG/Images/basebarcaps_verticalbarbody.png) -45px 
 }
 .H2_intelligence1{
 	font-family:Arial,Helvetica, sans-serif;
-	color:#F47937; 
+	color:#F47937;
 	font-size:14px;
 	font-variant:small-caps;
 	font-weight:bold;
@@ -7374,7 +7374,7 @@ background: #5E828C url(../../EIG/Images/basebarcaps_verticalbarbody.png) -45px 
     text-transform: uppercase;
     font-family: Arial,Helvetica, sans-serif;
     font-size: 16px;
-    color: #F47937;   
+    color: #F47937;
 }
 
 .sprite_ctrl_ECconvertor{ background:url(../../EIG/Images/Energy_Currency-Convertor.jpg) no-repeat scroll left top; height:22px;
@@ -7402,11 +7402,11 @@ background: #5E828C url(../../EIG/Images/basebarcaps_verticalbarbody.png) -45px 
 .removecompare_crl_ECconvertor_over{background-position:-428px -28px;width:127px;}
 /* HOVER STATE END */
 
-.EIG_EISELECT_Reader_SubHeader{   
+.EIG_EISELECT_Reader_SubHeader{
     font-family: Arial,Helvetica, sans-serif;
     font-size: 13px;
     font-variant: normal;
-    font-weight: bold;   
+    font-weight: bold;
     /*width: 600px;*/
     white-space:pre-line;
 }
@@ -7424,23 +7424,23 @@ background: #5E828C url(../../EIG/Images/basebarcaps_verticalbarbody.png) -45px 
 .EIGWebnierS1{width:290px}
 .EIGWebnierS2{width:620px}
 .EIGWebnierS3{width:950px}
-/* EIG WEBNIER END */ 
+/* EIG WEBNIER END */
 
 .FindBackIssueRightImage1{
       background: transparent url('../../EIG/Images/FindBackIssue/FindBackIssueRightImage1.jpg') no-repeat scroll right top;
-      width:310px; 
+      width:310px;
       height:381px;
 }
 
 .FindBackIssueleftImage1{
       background: transparent url('../../EIG/Images/FindBackIssue/FindBackIssueleftImage1.jpg') no-repeat scroll right top;
-      width:640px; 
+      width:640px;
       height:80px;
 }
 
 .FindBackIssueRightImage2{
       background: transparent url('../../EIG/Images/FindBackIssue/FindBackIssueRightImage2.jpg') no-repeat scroll right top;
-      width:310px; 
+      width:310px;
       height:79px;
 }
 
@@ -7550,9 +7550,9 @@ height:12px;
 
 .ContentStyles_div{height: 328px;width: 618px !important;position:relative;overflow: hidden;}
 
-/*-------------subscription Login-----------------*/ 
+/*-------------subscription Login-----------------*/
 
-.Corpsprite_buttons{background-image:  url('../../EIG/Images/sprite_buttons.jpg');}       
+.Corpsprite_buttons{background-image:  url('../../EIG/Images/sprite_buttons.jpg');}
 .derms_Normal{background-position: -2px -2px;height: 24px;width: 246px;}
 .decline_Normal{background-position: -250px -2px;height: 24px;width: 74px;}
 .login_Normal{background-position: -325px -2px;height: 24px;width: 77px;}
@@ -7564,7 +7564,7 @@ height:12px;
 
 .wb_Options_select_close_img{ margin-top:-13px;margin-right:10px;}
 .divRReport_img_bottom{ padding-bottom:10px;*padding-bottom:7px}
- 
+
 
 /*------------Initial Chart-----------------------*/
 .sprite_Initchart_btns
@@ -7610,8 +7610,8 @@ height:12px;
 .tablesetting{width  :450px;height :100%;}
 .setChatDivwidth{background:url('../../EIG/Images/input-tile.gif') repeat-x;border-top:none;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:none;width: 466px;height: 398px;overflow: auto;text-align:left;}
 .setChatDivwidth_1{background:url('../../EIG/Images/input-tile.gif') repeat-x;border-top:none;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:none;width: 270px;height: 208px;overflow: auto;text-align:left;}
-.MacChatTextbox{background:url('../../EIG/Images/input-tile.gif') repeat-x;height:20px;border-top:none;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:none;width: 412px;} 
-.MacChatTextbox_1{background:url('../../EIG/Images/input-tile.gif') repeat-x;height:20px;border-top:none;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:none;width: 206px;} 
+.MacChatTextbox{background:url('../../EIG/Images/input-tile.gif') repeat-x;height:20px;border-top:none;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:none;width: 412px;}
+.MacChatTextbox_1{background:url('../../EIG/Images/input-tile.gif') repeat-x;height:20px;border-top:none;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:none;width: 206px;}
 .clsChatsubject_1{width: 206px;margin-left: 0px;}
 
 /*--------------------------NOC---------------------------------------*/
@@ -7687,7 +7687,7 @@ height:12px;
     font-weight: bold;
     /*color: #FFFFFF;*/
     font-weight: bold;
-    background-color: #F69C68;    
+    background-color: #F69C68;
 }
 .border_TS_NOC_Result_table
 {
@@ -7721,12 +7721,12 @@ height:12px;
     text-decoration: none;
 }
 
-.NOC_COM_left_column_Profile 
+.NOC_COM_left_column_Profile
 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     color: #000000;
-    text-decoration: none;    
+    text-decoration: none;
 }
 .NOC_Ranking
 {
@@ -7805,7 +7805,7 @@ height:12px;
 
 .eiselect-header a
 {
-    
+
     color: #444444;
     text-decoration:none;
 }
@@ -7833,14 +7833,14 @@ height:12px;
 	/*max-width:300px;*/
 }
 
-.empty div.subItemContainer 
+.empty div.subItemContainer
 {
 	margin-top:0px;
 }
 
 .subMenuContainer.empty
 {
-	padding-bottom:0px;		
+	padding-bottom:0px;
 }
 
 .subHeaderItem
@@ -7876,7 +7876,7 @@ height:12px;
 .subMenu
 {
 	text-transform:none;
-	margin-left:-10px;	
+	margin-left:-10px;
 	margin-top: -1px;
 	*margin-top: -1px;
 	_margin-top: -5px;
@@ -7925,19 +7925,19 @@ height:12px;
 }
 .subGroupItem
 {
-	line-height:17px;	
+	line-height:17px;
 	margin-bottom: 10px;
 }
 .topMenuItem
 {
 	float:left;
-	height:23px;	
+	height:23px;
 }
 
 .subMenuItemContainer2{
-	
+
  	color: #B9B9B9;
-	background-color: #3b4449; 
+	background-color: #3b4449;
 	border-top: 5px solid #F47937;
  }
  .subMenuItem2{
@@ -7957,16 +7957,16 @@ height:12px;
 .footBody
 {
 	background-color: #3b4449;
-	height:10px;	
+	height:10px;
 	float:left;
 	display:inline;
-	
+
 }
 
 .rightBottomCorner
 {
- 	background-image: url('../images/drop-down-corner.png'); 
- 	background-position: right bottom;    
+ 	background-image: url('../images/drop-down-corner.png');
+ 	background-position: right bottom;
  	background-repeat: no-repeat;
 	height:10px;
 	width:21px;
@@ -8032,12 +8032,12 @@ height:12px;
 
 .eig-link
 {
-	color: black; 
-	text-decoration: none; 
-	cursor: pointer; 
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
 }
 
-.left-menu-header 
+.left-menu-header
 {
     font-size: 13px;
     font-weight: normal;
@@ -8049,14 +8049,14 @@ height:12px;
 	padding: 2px;
 }
 .left-menu-container {/*padding:10px;*/}
-.left-menu-subcontainer 
+.left-menu-subcontainer
 {
 	border-bottom: 1px solid #B9B9B9;
     line-height: 16px;
     margin-bottom: 10px;
     padding-bottom: 10px;
 }
-.controls-separator 
+.controls-separator
 {
 	border-bottom: 1px solid #B9B9B9;
     line-height: 16px;
@@ -8080,24 +8080,24 @@ height:12px;
 
 .datasource-item-header
 {
-	display:block; 
+	display:block;
 	margin-top: 10px;
-	font-weight:bold;  	
-	font-size: 13px;	
-} 
+	font-weight:bold;
+	font-size: 13px;
+}
 
 .datasource-item-link
 {
-	color: #0080FF; 
-	font-style:italic;	
-	text-decoration: none; 
-	cursor: pointer; 
+	color: #0080FF;
+	font-style:italic;
+	text-decoration: none;
+	cursor: pointer;
 }
 
 .datasource-item-link:hover
 {
     color: #F47937;
-} 
+}
 
 .datasource-header
 {
@@ -8142,7 +8142,7 @@ height:12px;
     border: 1px solid #ABABAB;
     font-family: Arial,Helvetica,sans-serif;
 }
-    
+
 .eiSelectSectionDescription { color: #fff;font-size: 14px;font-weight: bold;float: left; padding-top: 3px}
 
 .eiSelectTopicsHeader { color: #F47937;width: 182px!important;font-size: 12px;height:20px}
@@ -8156,31 +8156,31 @@ height:12px;
 .btn_eiSelectSaveNL {background: url('../../EIG/Images/EISelect/ei-select-save-nl-V3.gif') no-repeat scroll 0 0 transparent;height: 23px;width: 193px; cursor:pointer}
 .btn_eiSelectSaveRefinedNL {background: url('../../EIG/Images/EISelect/ei-select-refined-nl-V3.gif') no-repeat scroll 0 0 transparent;height: 23px;width: 251px; cursor:pointer}
 
-.btn_eiSelectDisableEmailNL 
+.btn_eiSelectDisableEmailNL
 {
-    float:left; 
+    float:left;
     padding-top: 3px;
-    cursor: pointer; 
-    width:127px; 
-    height: 23px; 
+    cursor: pointer;
+    width:127px;
+    height: 23px;
     background: url('/_layouts/EIG/Images/EISelect/ei-select-disableemail-nl.png') no-repeat scroll 0 0 transparent;
     margin-right:11px;
 }
 
-.btn_eiSelectEnableEmailNL 
+.btn_eiSelectEnableEmailNL
 {
-    float:left; 
+    float:left;
     padding-top: 3px;
-    cursor: pointer; 
-    width:127px; 
-    height: 23px; 
+    cursor: pointer;
+    width:127px;
+    height: 23px;
     background: url('/_layouts/EIG/Images/EISelect/ei-select-enableemail-nl.png') no-repeat scroll 0 0 transparent;
     margin-right:11px;
 }
 .txt_eiSelectDisableEmailNotificationNL
 {
-    float:left; 
-    height: 23px; 
+    float:left;
+    height: 23px;
     padding-top: 3px;
     color:Red;
     font-style: italic;
@@ -8227,7 +8227,7 @@ height:12px;
 	text-transform:uppercase;
 	font-weight:bold;
 	font-size:15px;
-	
+
 }
 
 .event_name
@@ -8302,7 +8302,7 @@ height:12px;
 {
   /*background-color: rgb(230,118,52);*/
   float: right;
-  color:White; 
+  color:White;
   margin-top:10px;
   border-width:0px;
   width:115px;
@@ -8313,15 +8313,15 @@ height:12px;
 
 .chgPassImg
 {
-	background-image:url("../../EIG/Images/UserProfile/wtf.png");	
+	background-image:url("../../EIG/Images/UserProfile/wtf.png");
 	width:147px;
 }
 
 .pflSectionSplitter
 {
-    border-top:1px solid #b9b9b9; 
-	/*height: 1px; 
-	background-color: #b9b9b9; 
+    border-top:1px solid #b9b9b9;
+	/*height: 1px;
+	background-color: #b9b9b9;
 	border-top-width: 1px;*/
 	margin-top:8px;
 	margin-bottom:3px;
@@ -8332,7 +8332,7 @@ height:12px;
 }
 .pflSection
 {
-	margin-bottom:25px;	
+	margin-bottom:25px;
 	font-size:12px;
 	color:#444444;
 }
@@ -8342,7 +8342,7 @@ height:12px;
 	text-decoration:none;
 }
 /*
-a.pflBtnEdit:hover 
+a.pflBtnEdit:hover
 {
 	color:White !important;
 }*/
@@ -8358,28 +8358,28 @@ a.pflBtnEdit:hover
 	width:310px;
 	margin-bottom:3px;
 	margin-left:10px;
-	
-	
+
+
 }
 .ddl
 {
 	width:314px;
-	
+
 }
 .lblTxtContent
 {
-	margin-top:1px;	
+	margin-top:1px;
 }
 .pflEditContainer
 {
 	float:left;
-	
+
 }
 .editCtrlContainer
 {
 	/*padding-left:100px;*/
-	
-	
+
+
 }
 .lblTxtContent div
 {
@@ -8389,11 +8389,11 @@ a.pflBtnEdit:hover
 }
 .lblTxtContent div span
 {
-	float:right;	
+	float:right;
 }
 .accHeader
 {
-	border-bottom: 1px solid #b9b9b9;	
+	border-bottom: 1px solid #b9b9b9;
 }
 .my-account-add-new-subscription {background:transparent url(../../EIG/Images/btn-new-subscription.gif) no-repeat scroll right top;height:23px;width:159px}
 .my-account-update-email-alerts {background:transparent url(../../EIG/Images/btn-update-email-alert.gif) no-repeat scroll right top;height:23px;width:148px}
@@ -8423,22 +8423,22 @@ table.search-query span.from-to-text {width: 35px;float:left;}
 .ArticleCopyright a
 {
     color:#444444;
-    font-weight:bold;    
+    font-weight:bold;
 }
 .ArticleCopyright a:hover
 {
     color:#F47937;
-    font-weight:bold;    
+    font-weight:bold;
 }
 
 
 .eir_research_title
 {
-    margin: 10px;       
+    margin: 10px;
 }
 .eir_research_title span
 {
-    color:#F47937;        
+    color:#F47937;
     font-family: Arial,Helvetica,sans-serif;
     font-weight:bold;
 }
@@ -8450,24 +8450,24 @@ table.search-query span.from-to-text {width: 35px;float:left;}
 
 .eir_researchLogo_1
 {
-    height: 60px;     
+    height: 60px;
     margin: 10px;
     background: url('/_layouts/EIG/Images/research/ei-bc-intel-service.gif')  no-repeat scroll 0 0 transparent;
     cursor:pointer;
 }
-    
-    
+
+
 .eir_researchLogo_2
-{ 
-    height: 60px;        
+{
+    height: 60px;
     margin: 10px;
     background: url('/_layouts/EIG/Images/research/researchLogo_2.png')  no-repeat scroll 0 0 transparent;
     cursor:pointer;
 }
-    
+
 .eir_researchLogo_3
-{ 
-    height: 60px;        
+{
+    height: 60px;
     margin: 10px;
     background: url('/_layouts/EIG/Images/research/researchLogo_3.png')  no-repeat scroll 0 0 transparent;
     cursor:pointer;
@@ -8498,13 +8498,13 @@ table.crude_oil_fundamentals tr td.header
 	color: #FFFFFF;
 	background-color:#333399;
 	font-size: 14px;
-	font-weight: bold;	
+	font-weight: bold;
 	text-align: center;
 }
 
 table.crude_oil_fundamentals tr.r0 td,
 table.crude_oil_fundamentals tr.r0 th
-{		
+{
     font-size: 12px;
 	text-align: center;
 	background-color:#99ccff;
