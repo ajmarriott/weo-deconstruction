@@ -1,0 +1,19 @@
+﻿
+/*=====================================================================
+ * File                    : RoundedCorners.css 
+ * Created Date            : 03-Jul-2014
+ * Last Updated By         : 03-Jul-2014
+ * Last Updated Date       : Sergey Zachepylo
+ * Description             : used for squaring corners for all boxes
+ * Type					   : Stylesheet
+ * -------------------------------------------------------------------*/
+ 
+.t{ }
+.b{ }
+.l{ }
+.r{ }
+
+.bl{ }
+.br{ }
+.tl{ }
+.tr{ padding:10px;overflow:hidden; }

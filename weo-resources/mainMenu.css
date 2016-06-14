@@ -1,0 +1,116 @@
+﻿.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+#nav span {
+    display: none;
+}
+#nav, #nav ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+#nav {
+    font: 14px Arial,sans-serif;
+    float: left;
+    position: relative;
+    width: 960px;
+    background-color: #FFFFFF;
+    border-bottom: 7px solid #2a3135;
+    background-color: #E0E4E5;
+    height: 35px;
+}
+#nav ul.subs {
+    border-top: 3px solid #333333;
+    background-color: #FFFFFF;
+    border-left: 3px solid #333333;
+    border-right: 3px solid #333333;
+    border-bottom: 3px solid #333333;
+    color: #333333;
+    display: none;
+    left: 0;
+    position: absolute;
+    width: 954px;
+    top: 42px;
+}
+#nav > li {
+    float: left;
+    text-align: left;
+}
+#nav li a {
+    display: block;
+    text-decoration: none;
+    -moz-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    -ms-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    -o-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    -webkit-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    white-space: normal;
+}
+#nav > li > a {
+    color: #333333;
+    display: block;
+    line-height: 35px;
+    padding: 0 15px;
+    border-bottom: 7px solid #2a3135;
+    background-color: #E0E4E5;
+}
+#nav > li:hover > a, #nav > a:hover {
+    border-color: #F47D30;
+    -moz-transition: all 450ms ease-in-out 0s;
+    -ms-transition: all 450ms ease-in-out 0s;
+    -o-transition: all 450ms ease-in-out 0s;
+    -webkit-transition: all 450ms ease-in-out 0s;
+    transition: all 450ms ease-in-out 0s;
+}
+#nav li.active > a {
+    border-color: #F47D30;
+}
+#nav ul.subs > li {
+    display: inline-block;
+    float: none;
+    margin: 10px 0px;
+    vertical-align: top;
+    border-right: 2px solid #333333;
+}
+#nav ul.subs > li a {
+    color: #2a3135;
+    line-height: 20px;
+    padding-left: 4px;
+}
+#nav ul li a:hover {
+    background-color: #E0E4E5;
+}
+#nav ul.subs > li div.subTitle {
+    color: #F47D30;
+    cursor: default;
+}
+#nav ul.subs > li:first-child {
+    width: 220px;
+}
+#nav ul.subs > li.last {
+    border-right: 0px solid #333333;
+}
+#nav ul.subs > li div.description {
+    color: #333333;
+    cursor: default;
+    padding: 0px 10px;
+}
+#nav ul.subs > li > ul {
+    padding: 0px 10px;
+    min-height: 80px;
+}
+#nav ul.subs > li li {
+    float: none;
+    padding-left: 4px;
+}
+#nav > li > ul.active {
+    display: block;
+}
+#nav > li > ul {
+    display: none;
+}
+#nav > li > ul {
+    min-height: 80px;
+}
